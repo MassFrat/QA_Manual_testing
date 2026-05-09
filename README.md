@@ -49,9 +49,10 @@ ________________________________________
 #### 8. **Entry & exit criteria** <br>
 
 <h6> ** Start testing when... ** <br>
-<font size="2"> - Site is accessible <br>  - Test cases are written <br>  - Test account is created on demoblaze
-<br>
-<font size="2">    **Stop testing when...** <br>
+<font size="2"> - Site is accessible <br>  - Test cases are written <br>  - Test account is created on demoblaze 
+&nbsp;
+ 
+<h6> ** Stop testing when... ** <br>
 <font size="2"> - All 20 test cases executed <br> - All bugs logged <br> - Summary report written
 &nbsp;
 
