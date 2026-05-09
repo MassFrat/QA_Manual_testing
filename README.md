@@ -38,7 +38,7 @@ ________________________________________
 **Start testing when...** <br>
 Site is accessible · Test cases are written · Test account is created on demoblaze
 
-**Stop testing when...** <br>
+    **Stop testing when...** <br>
 All 20 test cases executed · All bugs logged · Summary report written
 
 9. **Risks & assumptions** <br>
