@@ -23,8 +23,8 @@ All bugs logged in Jira.
 | \`test-plan-demoblaze.png\` | 1-page test plan — scope, tools, timeline, risks |
 | \`20-test-cases-demoblaze.pdf\` | All 20 test cases with full steps and results |
 | \`qa-summary-report-demoblaze.pdf\` | Completed QA report |
-| \`bug-reports (jira)/` | Annotated screenshots for all 8 bugs |
-| \`screenshots/` | Test execution evidence |
+| \`bug-reports (jira)\` | Annotated screenshots for all 8 bugs |
+| \`screenshots\` | Test execution evidence |
 
 
 
