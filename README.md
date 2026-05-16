@@ -1,4 +1,4 @@
-# Project 1 -  Web Testing with demoblaze.com
+# Project 1 -  Website Testing with demoblaze.com
 
 ![Pass](https://img.shields.io/badge/Pass-16-green)
 ![Fail](https://img.shields.io/badge/Fail-4-red)
